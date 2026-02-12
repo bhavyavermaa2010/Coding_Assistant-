@@ -129,6 +129,14 @@ No cross-domain answers
 
 No memory or personalization
 
+
+
+## ⚠️ Deployment Note
+
+This application uses a locally hosted LLM via Ollama and is intended for local execution only.
+Cloud deployment is not supported in the current version.
+
+
 👨‍💻 Author
 
 Bhavya Verma
