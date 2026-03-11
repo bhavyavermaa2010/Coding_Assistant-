@@ -19,6 +19,22 @@ The application answers programming and computer science related questions while
 
 ---
 
+## 🏗️ Architecture
+
+User Question
+      ↓
+Domain Selection (Sidebar)
+      ↓
+Question Validation Layer
+      ↓
+LangChain Prompt Processing
+      ↓
+Local LLM (LLaMA3 via Ollama)
+      ↓
+Response Displayed in Streamlit UI
+
+---
+
 ## 🛠️ Tech Stack
 
 - **Python 3.10+**
