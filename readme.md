@@ -152,6 +152,24 @@ This application uses a locally hosted LLM via Ollama and is intended for local 
 Cloud deployment is not supported in the current version.
 
 
+## 📚 Key Learnings
+
+• Prompt engineering for LLM-based applications  
+• Integrating LangChain with local LLMs using Ollama  
+• Designing domain-restricted AI response systems  
+• Building interactive AI applications using Streamlit  
+• Monitoring LLM interactions using LangSmith
+
+
+
+## 🔮 Future Improvements
+
+• Add conversational memory support  
+• Support multiple LLM models  
+• Implement code execution sandbox for testing code snippets  
+• Deploy using containerized environments (Docker)  
+• Add authentication and user session management
+
 👨‍💻 Author
 
 Bhavya Verma
