@@ -1,4 +1,4 @@
-# 💻 Coding Assistant (Ollama + LangChain + Streamlit)
+💻 AI Coding Assistant using LangChain, Ollama (LLaMA3) and Streamlit
 
 A **stateless AI-powered coding assistant** built using **Ollama**, **LangChain**, and **Streamlit**.  
 This assistant answers **only coding & computer science–related questions** and strictly follows the **selected domain**.
