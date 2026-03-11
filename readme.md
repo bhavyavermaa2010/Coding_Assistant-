@@ -1,8 +1,7 @@
 💻 AI Coding Assistant using LangChain, Ollama (LLaMA3) and Streamlit
 
-A **stateless AI-powered coding assistant** built using **Ollama**, **LangChain**, and **Streamlit**.  
-This assistant answers **only coding & computer science–related questions** and strictly follows the **selected domain**.
-
+A stateless AI-powered coding assistant built using LangChain, Ollama (LLaMA3), and Streamlit.
+The application answers programming and computer science related questions while restricting responses to selected technical domains such as Python, SQL, Machine Learning, and Data Science. It uses a locally hosted LLM via Ollama to generate domain-specific responses in real time.
 ---
 
 ## 🚀 Features
